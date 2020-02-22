@@ -1,4 +1,4 @@
-
+//Program to calculate the sum and avg of 3 numbers
 package javaapplication202;
 import java.util.*;
 public class JavaApplication202 {
